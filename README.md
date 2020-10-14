@@ -7,8 +7,7 @@ I have just make it simple to  upload to the cdn server easily and add url param
 It is accessible from https://cdn.robocup.org/rsim/public/viewer/
 
 To load another log instead of the test log, you can easily use jlog parameter.
-example:
-https://cdn.robocup.org/rsim/public/viewer/?jlog=HTTPS://sampleURL
+example: viewer/?jlog=HTTPS://sampleURL
 
 you can test a working example from [here](https://cdn.robocup.org/rsim/public/viewer/testlogs/Aura_kobe__1602264875299_viewer_event_log.jlog.zip)
 
